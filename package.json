@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "next": "9.5.3",
+    "next-i18next": "^6.0.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "autoprefixer": "^9.8.6",
+    "tailwindcss": "^1.8.5"
   }
 }
